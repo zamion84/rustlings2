@@ -1,0 +1,1 @@
+/Users/michaeldavila/rustlings/target/release/rustlings: /Users/michaeldavila/rustlings/src/exercise.rs /Users/michaeldavila/rustlings/src/main.rs /Users/michaeldavila/rustlings/src/project.rs /Users/michaeldavila/rustlings/src/run.rs /Users/michaeldavila/rustlings/src/ui.rs /Users/michaeldavila/rustlings/src/verify.rs

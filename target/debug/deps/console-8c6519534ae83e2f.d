@@ -1,0 +1,11 @@
+/Users/michaeldavila/rustlings/target/debug/deps/libconsole-8c6519534ae83e2f.rmeta: /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/michaeldavila/rustlings/target/debug/deps/console-8c6519534ae83e2f.d: /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs:
