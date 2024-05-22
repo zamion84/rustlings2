@@ -44,7 +44,7 @@ fn build_scores_table(results: String) -> HashMap<String, Team> {
             goals_scored: team_2_score,
             goals_conceded: team_1_score,
         };
-        scores.insert(team_1_name, t2);
+        scores.insert(team_2_name, t2);
         
         // TODO: Populate the scores table with details extracted from the
         // current line. Keep in mind that goals scored by team_1

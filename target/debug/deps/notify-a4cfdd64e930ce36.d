@@ -1,0 +1,11 @@
+/Users/michaeldavila/rustlings2/target/debug/deps/libnotify-a4cfdd64e930ce36.rmeta: /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/fsevent.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/Users/michaeldavila/rustlings2/target/debug/deps/notify-a4cfdd64e930ce36.d: /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/fsevent.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/fsevent.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs:
+/Users/michaeldavila/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs:
