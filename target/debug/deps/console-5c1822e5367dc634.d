@@ -1,0 +1,11 @@
+C:\Users\Zamio\Desktop\rustlings2\target\debug\deps\libconsole-5c1822e5367dc634.rmeta: C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\lib.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\common_term.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\kb.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\term.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\utils.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\windows_term\mod.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\ansi.rs
+
+C:\Users\Zamio\Desktop\rustlings2\target\debug\deps\console-5c1822e5367dc634.d: C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\lib.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\common_term.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\kb.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\term.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\utils.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\windows_term\mod.rs C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\ansi.rs
+
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\lib.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\common_term.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\kb.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\term.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\utils.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\windows_term\mod.rs:
+C:\Users\Zamio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.8\src\ansi.rs:
