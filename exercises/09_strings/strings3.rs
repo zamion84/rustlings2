@@ -11,17 +11,12 @@ fn trim_me(input: &str) -> String {
 }
 
 fn compose_me(input: &str) -> String {
-<<<<<<< Updated upstream:exercises/09_strings/strings3.rs
-    // TODO: Add " world!" to the string! There are multiple ways to do this!
-    ???
-=======
     // TODO: Add " world!" to the string! There's multiple ways to do this!
     input.to_string();
     format!("{} world!", input)
 
 //     input.push_str(String::from("world"))
 // 
->>>>>>> Stashed changes:exercises/strings/strings3.rs
 }
 
 fn replace_me(input: &str) -> String {
